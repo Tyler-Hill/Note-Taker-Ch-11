@@ -8,5 +8,10 @@
         "title": "Get to coding",
         "text": "Coding is very important\n",
         "id": "a3b1c97c-0165-4505-860d-6691b409c43e"
+    },
+    {
+        "title": "This is a new note",
+        "text": "This is new text within the new note\n",
+        "id": "14ef88bf-5deb-44a7-b769-08c911f40648"
     }
 ]
